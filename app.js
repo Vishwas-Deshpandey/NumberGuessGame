@@ -1,6 +1,5 @@
 let getArandomValue = Math.floor(Math.random()*100)
 
-console.log("random number", getArandomValue)
 let arr = [];
 let totalChance = ["⚡","⚡","⚡","⚡","⚡","⚡","⚡","⚡"]
 
